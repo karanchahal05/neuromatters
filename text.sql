@@ -23,11 +23,11 @@ create table objects (
   srcname varchar(500) not null
 );
 
-/*User information*/
+/*Database Hostinger info:*/
 /*Servername = localhost*/
-/*Username = thekting_karan*/
-/*Password = ilUhF)I.W[-N*/
-/*dbName = thekting_Neuromatters/
+/*Username = u737487946_karan*/
+/*Password = ilUhF)I.W[-Na33skf?d*/
+/*dbName = u737487946_neuromatters/
 
 
 /* Data Insertion for Articles*/
