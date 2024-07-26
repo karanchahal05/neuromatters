@@ -23,7 +23,7 @@ create table objects (
   srcname varchar(500) not null
 );
 
-/*User information*/
+/*Database information*/
 /*Servername = localhost*/
 /*Username = thekting_karan*/
 /*Password = ilUhF)I.W[-N*/
